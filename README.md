@@ -32,9 +32,18 @@ pip install -r requirements.txt
 
 python EfficientNet YOLOv11 Feature-level fusion.py
 
-# License
+# Code Availability Statement
 
-This code is released under the BSD 3-Clause License.
+The source code developed  in this study is publicly available on GitHub. The repository can be accessed at: [https://github.com/A-kuonji/Du-YoEfNet].
+To ensure the reproducibility of our results:
+
+The repository contains all essential custom scripts.
+
+A detailed README.md file is provided, which includes instructions on software dependencies, installation steps, and how to execute the main analysis pipelines.
+
+The code is released under the BSD 3-Clause License.
+
+For any questions regarding the code or its implementation, please contact the corresponding author.
 
 # Notes for Reviewers
 
